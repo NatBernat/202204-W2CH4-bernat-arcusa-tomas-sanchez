@@ -1,7 +1,6 @@
 {
   "name": "202204-w2ch4-bernat-arcusa-tomas-sanchez",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,5 +17,14 @@
     "eslint-plugin-import": "^2.26.0",
     "husky": "^7.0.0",
     "jest": "^27.5.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatBernat/202204-W2CH4-bernat-arcusa-tomas-sanchez.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NatBernat/202204-W2CH4-bernat-arcusa-tomas-sanchez/issues"
+  },
+  "homepage": "https://github.com/NatBernat/202204-W2CH4-bernat-arcusa-tomas-sanchez#readme",
+  "description": ""
 }
