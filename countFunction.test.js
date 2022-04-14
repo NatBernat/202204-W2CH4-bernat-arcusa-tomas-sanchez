@@ -6,12 +6,12 @@ class SkylabArray {
   }
 }
 
-const example = new SkylabArray(2, 4, 6);
+let exampleVariable = new SkylabArray(2, 4, 6);
 
 describe("Given a new variable", () => {
   describe("When receives the SkylabArray class with 2, 4 and 6 values and we call the index2", () => {
     test("Then it result is 6", () => {
-      const exampleVariable = new SkylabArray(2, 4, 6);
+      exampleVariable = new SkylabArray(2, 4, 6);
       const expectedResult = 6;
 
       const result = exampleVariable.index2;
